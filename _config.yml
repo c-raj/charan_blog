@@ -15,13 +15,15 @@
 # in the templates via {{ site.myvariable }}.
 locale: "en"
 title: ./charan
+title_separator: "-"
 # email: charanraj.engineer@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A place to post my ramblings.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://charanprakash.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "c-raj/charan_blog"
 
+breadcrumbs: true
 # Social Sharing
 github_username:  c-raj
 
@@ -34,7 +36,7 @@ plugins:
 # Site Author
 author:
   name             : "Charanraj Prakash"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "Site Reliablilty Engineer with a passion for automation."
   location         : "Sunnyvale, California"
   email            : "charanraj.engineer@gmail.com"
