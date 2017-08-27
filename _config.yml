@@ -13,20 +13,32 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: "en"
 title: ./charan
-email: charanraj.engineer@gmail.com
+# email: charanraj.engineer@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A place to post my ramblings.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-facebook_username: charanrajprakash
+repository: "c-raj/charan_blog"
+
+# Social Sharing
 github_username:  c-raj
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+
+# Site Author
+author:
+  name             : "Charanraj Prakash"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Site Reliablilty Engineer with a passion for automation."
+  location         : "Sunnyvale, California"
+  email            : "charanraj.engineer@gmail.com"
+  linkedin         : "https://www.linkedin.com/in/charanrajprakash/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
