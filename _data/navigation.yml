@@ -1,0 +1,5 @@
+main:
+  - title: "Profile"
+    url: /profile/
+  - title: "Blog"
+    url: /
