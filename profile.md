@@ -5,16 +5,18 @@ permalink: /profile/
 author_profile: true
 ---
 
-<h3> Education </h3>
+<h3><i class="fa fa-briefcase"></i> Education </h3>
 <hr>
 <div>
 	Anna University 
 	<br>
 	University of Texas at Dallas
+	<br>
+
 </div>
 
 
-<h3> Experience </h3>
+<h3><i class="fa fa-briefcase"></i> Experience </h3>
 <hr>
 <div>
 	Senior Site Reliability Engineer, LinkedIn
