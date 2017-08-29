@@ -5,7 +5,7 @@ permalink: /profile/
 author_profile: true
 ---
 
-<h3><i class="fa fa-briefcase"></i> Education </h3>
+<h3><i class="fa fa-mortar-board"></i>  Education </h3>
 <hr>
 <div>
 	Anna University 
@@ -16,10 +16,11 @@ author_profile: true
 </div>
 
 
-<h3><i class="fa fa-briefcase"></i> Experience </h3>
+<h3><i class="fa fa-briefcase"></i>  Experience </h3>
 <hr>
 <div>
 	Senior Site Reliability Engineer, LinkedIn
+	<h5><i class="fa fa-clock-o"></i> June 2014 - Present</h5>
 	<br>
 	E-Crime Analyst Intern, Yahoo!
 	<br>
@@ -27,8 +28,29 @@ author_profile: true
 </div>
 
 
-<h3> Projects </h3>
+<h3><i class="fa fa-flask"></i>  Projects </h3>
 <hr>
+<div>
+	Linkedin CDN
+	<br>
+	Video Shares
+	<br>
+	Purge Tool
+</div>
 
-<h3> Skills </h3>
+<h3><i class="fa fa fa-wrench"></i>  Skills </h3>
 <hr>
+<div>
+	Programming
+	<hr>
+	Python
+	<br>
+	Golang
+	<br>
+	Java
+	<br>
+
+	Web Development
+	<hr>
+	Flask, SQLAlchemy 
+</div>
